@@ -100,7 +100,7 @@
 .two-columns__paragraph:last-child {
   margin: 0;
 }
-.two-columns__pick-out {
+.two-columns__span-accent {
   font-weight: 600;
 }
 .digits {
@@ -259,7 +259,7 @@
 }
 .footer__column-links {
   list-style: none;
-  margin: 0;
+  margin: 0 0 16px 0;
   padding: 0;
 }
 .footer__social-icon {
